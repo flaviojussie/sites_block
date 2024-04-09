@@ -1,2 +1,5 @@
-https://poki.com/
-www.roblox.com/
+127.0.0.1 https://poki.com/
+127.0.0.1 https://www.jogos360.com.br/
+127.0.0.1 https://www.friv.com/
+127.0.0.1 www.roblox.com
+127.0.0.1 roblox.com
