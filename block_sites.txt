@@ -1,5 +1,5 @@
-127.0.0.1 https://poki.com/
-127.0.0.1 https://www.jogos360.com.br/
-127.0.0.1 https://www.friv.com/
-127.0.0.1 www.roblox.com
-127.0.0.1 roblox.com
+0.0.0.0 https://poki.com/
+0.0.0.0 https://www.jogos360.com.br/
+0.0.0.0 https://www.friv.com/
+0.0.0.0 www.roblox.com
+0.0.0.0 roblox.com
