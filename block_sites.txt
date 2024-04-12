@@ -4,3 +4,10 @@ www.friv.com
 www.roblox.com
 roblox.com
 subwaysurfersgame.io
+chromewebstore.google.com
+apps.microsoft.com
+microsoftedge.microsoft.com
+addons.opera.com
+www.opera.com
+www.mozilla.org
+addons.mozilla.org
